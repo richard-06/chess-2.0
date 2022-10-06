@@ -83,55 +83,55 @@ body {
 /* chess pieces */
 
 .soldier-1 {
-  background-image: url("/pieces/s1.png");
+  background-image: url("pieces/s1.png");
   background-size: 50px;
 }
 .soldier-0 {
-  background-image: url("/pieces/s0.png");
+  background-image: url("pieces/s0.png");
   background-size: 50px;
 }
 
 .elephant-1 {
-  background-image: url("/pieces/e1.png");
+  background-image: url("pieces/e1.png");
   background-size: 50px;
 }
 .elephant-0 {
-  background-image: url("/pieces/e0.png");
+  background-image: url("pieces/e0.png");
   background-size: 50px;
 }
 
 .horse-1 {
-  background-image: url("/pieces/h1.png");
+  background-image: url("pieces/h1.png");
   background-size: 50px;
 }
 .horse-0 {
-  background-image: url("/pieces/h0.png");
+  background-image: url("pieces/h0.png");
   background-size: 50px;
 }
 
 .bishop-1 {
-  background-image: url("/pieces/b1.png");
+  background-image: url("pieces/b1.png");
   background-size: 50px;
 }
 .bishop-0 {
-  background-image: url("/pieces/b0.png");
+  background-image: url("pieces/b0.png");
   background-size: 50px;
 }
 
 .queen-1 {
-  background-image: url("/pieces/q1.png");
+  background-image: url("pieces/q1.png");
   background-size: 50px;
 }
 .queen-0 {
-  background-image: url("/pieces/q0.png");
+  background-image: url("pieces/q0.png");
   background-size: 50px;
 }
 .king-1 {
-  background-image: url("/pieces/k1.png");
+  background-image: url("pieces/k1.png");
   background-size: 50px;
 }
 .king-0 {
-  background-image: url("/pieces/k0.png");
+  background-image: url("pieces/k0.png");
   background-size: 50px;
 }
 
